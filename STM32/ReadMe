@@ -1,1 +1,2 @@
-
+These libraries are based on "STM32F429ZIT-DISCO2" board and "STM32cubeMx" app,
+Also "HAL-Drivers" are prefered beacuse of being famous and reference.  
