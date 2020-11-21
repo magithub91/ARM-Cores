@@ -1,4 +1,4 @@
 1399-09-01 = 2020-Nov-21 > OLED-128x64-SSD1306 Driver base on I2C > File name = OLED1
 1399-09-01 = 2020-Nov-21 > OLED-128x64-SSD1306 Driver base on I2C > File name = OLED2
-Note: OLED2 is less than OLED1 in size of codes and occupation of RAM memory
+Note: OLED2 is less than OLED1 in size of codes and occupation of RAM memory > ex: u can use it for "STM32F030F4P6" MCU
  
